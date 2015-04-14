@@ -16,14 +16,16 @@
   "spm": {
     "output": [
       "chat/app.js",
-      "todo/app.js"
+      "todo/app.js",
+      "todo2/boot.js"
     ],
     "dependencies": {
       "react": "0.12.2",
       "flux": "2.0.1",
       "keymirror": "0.1.0",
       "events": "1.0.1",
-      "object-assign": "2.0.0"
+      "object-assign": "2.0.0",
+      "es6-promise": "2.0.1"
     },
     "devDependencies": {
       "expect.js": "0.3.1"
