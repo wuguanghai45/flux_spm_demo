@@ -1,0 +1,32 @@
+{
+  "name": "flux",
+  "version": "0.0.1",
+  "description": "A Demo for flux",
+  "keywords": [],
+  "homepage": "",
+  "author": "walt <912788137@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "spm": {
+    "dependencies": {
+      "react": "0.13.1"
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    },
+    "buildArgs": "--standalone"
+  },
+  "devDependencies": {
+    "spm": "3"
+  },
+  "scripts": {
+    "test": "spm test",
+    "build": "spm build"
+  }
+}
