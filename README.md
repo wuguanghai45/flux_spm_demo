@@ -12,5 +12,6 @@ A Demo for flux by spm
 ## Usage
 
 ```js
+spm install
 spm-server
 ```
