@@ -2,17 +2,15 @@
 
 ---
 
-A Demo for flux
+A Demo for flux by spm
 
 ## Install
 
 ```
-$ spm install flux --save
 ```
 
 ## Usage
 
 ```js
-var flux = require('flux');
-// use flux
+spm-server
 ```
