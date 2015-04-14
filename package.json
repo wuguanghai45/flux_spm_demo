@@ -15,7 +15,7 @@
   "licenses": "MIT",
   "spm": {
     "output": [
-      "js/index.*"
+      "chat/app.js"
     ],
     "dependencies": {
       "react": "0.12.2",
