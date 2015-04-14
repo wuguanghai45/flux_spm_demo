@@ -1,3 +1,5 @@
+/** @jsx React.DOM */
+
 /**
  * This file is provided by Facebook for testing and evaluation purposes
  * only. Facebook reserves all rights not expressly granted.
